@@ -12,9 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:https://github.com/markuscoding/profile-card-component-main
-- Live Site URL:https://markuscoding.github.io/profile-card-component-main/
-
+- Solution URL:https://github.com/markuscoding/single-price-grid-component-master
+- Live Site URL:https://markuscoding.github.io/single-price-grid-component-master/
 ### Screenshot
 
 ![](./mobile.jpg)
