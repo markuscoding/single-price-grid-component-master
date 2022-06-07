@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component
+# Frontend Mentor - Single price grid component
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -12,9 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:https://github.com/markuscoding/profile-card-component-main
-- Live Site URL:https://markuscoding.github.io/profile-card-component-main/
-
+- Solution URL:https://github.com/markuscoding/single-price-grid-component-master
+- Live Site URL:https://markuscoding.github.io/single-price-grid-component-master/
 ### Screenshot
 
 ![](./mobile.jpg)
